@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flinch-1
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning about kli linux tools and malware
+- 🌱 I’m currently learning about kali linux tools and malware
 - 💞️ I’m looking to collaborate on how to hack well 
 - 📫 How to reach me ... flinch11@proton.me
 
